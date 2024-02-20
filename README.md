@@ -25,6 +25,7 @@ I used the Keras Model from Sequential API.
 * Dense layer (43 nodes, activation=”softmax”)
 
 Visual representation of the final model is given below.
+
 ![alt text](https://github.com/amraskar/Traffic-Signs-Recognition-with-CNN/blob/8b58bfdec02770c292a3111f50c94932bb253a24/model.png "Visual representation of the final model")
 
 **Model accuracy:**
