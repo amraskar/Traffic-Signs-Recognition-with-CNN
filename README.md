@@ -37,12 +37,15 @@ Testing the model with test dataset ==> I achieved a 95% accuracy in this model.
 # The Final Result
 Example 1:
 Traffic sign name: Speed limit (50km/h)
+
 ![alt text](https://github.com/amraskar/Traffic-Signs-Recognition-with-CNN/blob/fc734962d72811625a4d6c9a43540ae2bf4c91db/Speed%20limit.png "Example 1")
 
 Example 2:
 Traffic sign name: Road work
+
 ![alt text](https://github.com/amraskar/Traffic-Signs-Recognition-with-CNN/blob/fc734962d72811625a4d6c9a43540ae2bf4c91db/Road%20work.png "Example 2")
 
 Example 3:
 Traffic sign name: Turn right ahead
+
 ![alt text](https://github.com/amraskar/Traffic-Signs-Recognition-with-CNN/blob/fc734962d72811625a4d6c9a43540ae2bf4c91db/Turn%20right%20ahead.png "Example 3")
